@@ -1,0 +1,4 @@
+body.mine #contributions-calendar,
+body.mine .contributions-tab .boxed-group:nth-of-type(2) {
+    display: none;
+}

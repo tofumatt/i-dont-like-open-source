@@ -1,0 +1,9 @@
+{
+  "name": "github-contribution-hider",
+  "title": "GitHub Contribution Hider",
+  "id": "jid1-YbdqtBtlxVvOZw",
+  "description": "Hide your own GitHub contribution graph.",
+  "author": "tofumatt",
+  "license": "Apache 2.0",
+  "version": "1.0"
+}
