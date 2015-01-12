@@ -12,3 +12,7 @@ get you feeling like you aren't as good a person because your life doesn't
 let you have 400 day GitHub streaks.
 
 [download]: https://addons.mozilla.org/en-US/firefox/addon/github-contribution-hider/
+
+#### Screenshot
+
+![Screenshot of the add-on](https://addons.cdn.mozilla.net/user-media/previews/full/150/150652.png?modified=1420833979)
