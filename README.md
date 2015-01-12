@@ -16,3 +16,6 @@ let you have 400 day GitHub streaks.
 #### Screenshot
 
 ![Screenshot of the add-on](https://addons.cdn.mozilla.net/user-media/previews/full/150/150652.png?modified=1420833979)
+
+Notice the lack of contribution graph on my own profile page. Yay! Now I can
+stop obsessing about whether or not I'm a "real developer" and go outside.
